@@ -1,7 +1,6 @@
 # Import necessary libraries
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from datetime import datetime, timedelta
 import nltk
